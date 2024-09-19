@@ -28,7 +28,7 @@ import {
 
 export const navLinks = [
 	{ route: '', name: 'navLink1', icon: Home },
-	{ route: 'coursess', name: 'navLink2', icon: ListVideo },
+	{ route: 'courses', name: 'navLink2', icon: ListVideo },
 	{ route: 'contacts', name: 'navLink4', icon: Contact },
 ]
 
